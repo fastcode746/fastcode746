@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zargham Abbas
-- 👀 I’m interested in Mobile App Developement, Tutoring my coding skills to other people and helping people succeed in their coding career.
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m a Mobile App Developer, Web Application Developer and Coding Tutor
 - 📫 Reach out : czaaaa20@gmail.com
-- ⚡ Fun fact: I convert coffee to code Hahaha !
+- ⚡ Fun fact: I code less and clone more.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zargham_746) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@czaaaa20) 
