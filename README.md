@@ -21,7 +21,6 @@
 - 👀 I’m a Mobile App Developer, Web Application Developer and Coding Tutor
 - 📫 Reach out : czaaaa20@gmail.com
 - ⚡ Fun fact: I code less and clone more.
-- 🛑 Most of my repositories are private to maintain client confidentiality.
 
 ###
 <h3>📍 Note</h3><p>Most of my repositories are private to maintain client confidentiality</p>
