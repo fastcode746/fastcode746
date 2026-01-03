@@ -374,19 +374,6 @@ class FreelanceSuccess:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fastcode746&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&border_color=2E9EF7&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastcode746&layout=compact&theme=react&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&border_color=2E9EF7&hide_border=false&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fastcode746&theme=react-dark&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=false" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎓 Education & Recognition
 
 <table>
