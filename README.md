@@ -5,7 +5,7 @@
 
 <!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Software+Engineer;4%2B+Years+Mobile+%7C+2%2B+Years+Web;40%2B+Global+Projects+Delivered+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Software+Engineer;4%2B+Years+Mobile+%7C+2%2B+Years+Web" alt="Typing SVG" />
 </div>
 
 <!-- Social badges with hover effects -->
