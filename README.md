@@ -401,34 +401,6 @@ class FreelanceSuccess:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Advanced Architecture
-      Microservices Design
-      System Design Patterns
-      Scalability Strategies
-    3D Graphics
-      Three.js Mastery
-      WebGL Programming
-      Interactive Experiences
-    Cloud Native
-      Container Orchestration
-      CI/CD Pipelines
-      Cloud Architecture
-    Performance
-      Code Optimization
-      Database Tuning
-      Caching Strategies
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Let's Build Something Amazing Together!
 
