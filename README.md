@@ -317,7 +317,7 @@ class FreelanceSuccess:
 ### 🌾 Zaraat Mobile App
 **Agricultural Marketplace MVP**
 
-[![Preview](https://img.shields.io/badge/Preview-Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/preview-link)
+[![Preview](https://img.shields.io/badge/Preview-Video-red?style=for-the-badge&logo=youtube)](https://www.linkedin.com/posts/zargham-abbas-dev_flutter-ai-flutterdeveloper-activity-7363858338423390208-sX2M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXNX-UBSPIdRuD2mfwwK8NWOlal5JR_3m8)
 
 **Tech Stack:**
 - Flutter | Firebase | Dart
@@ -339,7 +339,7 @@ class FreelanceSuccess:
 ### 🎨 3D Interactive Portfolio
 **Immersive Web Experience**
 
-[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=googlechrome)](https://your-portfolio-link.com)
+[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=googlechrome)](https://zarghamabbas-portfolio.vercel.app/)
 
 **Tech Stack:**
 - React | Three.js | TypeScript
@@ -379,10 +379,6 @@ class FreelanceSuccess:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fastcode746&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&border_color=2E9EF7&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastcode746&layout=compact&theme=react&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&border_color=2E9EF7&hide_border=false&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fastcode746&theme=react&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&border=2E9EF7&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
