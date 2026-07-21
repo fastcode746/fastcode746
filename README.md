@@ -13,13 +13,13 @@
   <a href="https://linkedin.com/in/zargham-abbas-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="mailto:czaaaa20@gmail.com">
+  <a href="mailto:talktozargham@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
   <a href="https://github.com/fastcode746" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/zargham_746/" target="_blank">
+  <a href="https://instagram.com/min_abbasem/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
 </div>
@@ -40,7 +40,7 @@
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
         <br />
-        <strong>40+</strong>
+        <strong>100+</strong>
         <br />
         <sub>Projects Delivered</sub>
       </td>
