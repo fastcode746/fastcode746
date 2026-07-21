@@ -47,7 +47,7 @@
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/>
         <br />
-        <strong>4+</strong>
+        <strong>5+</strong>
         <br />
         <sub>Years Experience</sub>
       </td>
@@ -85,9 +85,9 @@ const zargham = {
     currentFocus: "Building Scalable SAAS Solutions",
     
     experience: {
-        mobile: "4+ years",
-        web: "2+ years",
-        freelance: "40+ global projects"
+        mobile: "5+ years",
+        web: "4+ years",
+        freelance: "100+ global projects"
     },
     
     currentlyLearning: [
