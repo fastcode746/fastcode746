@@ -1,4 +1,4 @@
-![Zargham Abbas, full-stack software engineer](assets/profile-banner.svg)
+![Zargham Abbas, full-stack software engineer](assets/profile-banner.png)
 
 [Portfolio](https://zarghamabbas-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zargham-abbas-dev/) · [Email](mailto:talktozargham@gmail.com)
 
@@ -12,11 +12,11 @@ I build web and mobile products with React, Next.js, and TypeScript. At Direct2S
 
 ## Selected work
 
-[![Direct2Success · Production SaaS](assets/project-saas.svg)](#direct2success--production-saas)
+[![Direct2Success · Production SaaS](assets/project-saas.png)](#direct2success--production-saas)
 
-[![LotVoyager · 3D property intelligence](assets/project-geo.svg)](#lotvoyager--3d-property-intelligence)
+[![LotVoyager · 3D property intelligence](assets/project-geo.png)](#lotvoyager--3d-property-intelligence)
 
-[![FastCode Solutions · iOS and Android applications](assets/project-mobile.svg)](#fastcode-solutions--ios-and-android-applications)
+[![FastCode Solutions · iOS and Android applications](assets/project-mobile.png)](#fastcode-solutions--ios-and-android-applications)
 
 ## Project details
 
