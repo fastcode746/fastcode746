@@ -35,72 +35,58 @@
 
 ---
 
-[Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) · [Public repositories](#public-repositories) · [Education](#education)
+<h2 align="center">Inside my work</h2>
 
-I build web and mobile products with React, Next.js, and TypeScript. At Direct2Success, I own a production SaaS platform from database design and billing through deployment. I also build data-heavy interfaces, including an interactive 3D property platform.
+<p align="center">
+  <a href="#direct2success"><img alt="Explore Direct2Success" src="https://img.shields.io/badge/SaaS-Direct2Success-187858?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" /></a>
+  <a href="#lotvoyager"><img alt="Explore LotVoyager" src="https://img.shields.io/badge/Maps-LotVoyager-3455A4?style=for-the-badge&amp;logo=mapbox&amp;logoColor=white" /></a>
+  <a href="#fastcode-solutions"><img alt="Explore FastCode Solutions" src="https://img.shields.io/badge/Mobile-FastCode-795088?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" /></a>
+</p>
 
-| Direct2Success · API performance | Direct2Success · Production uptime | FastCode · On-time delivery |
-| :---: | :---: | :---: |
-| **40% improvement** | **99.9% uptime** | **95% delivery rate** |
+### Direct2Success
 
-## Selected work
-
-### Direct2Success · Production SaaS
-
-I own the architecture and releases for a multi-tenant SaaS platform.
+**One platform, many customers.** I own the architecture of a SaaS product where each customer’s records stay isolated, even as subscriptions, usage, and payments change.
 
 <details>
-<summary>Explore tenant security, billing, and releases</summary>
+<summary><strong>How I handle access, billing, and performance</strong></summary>
 
-I designed the platform's multi-tenant PostgreSQL schema and used Supabase row-level security to isolate customer data. I built Stripe subscriptions and usage-based billing, then set up zero-downtime release pipelines on Vercel.
+- **Access** · I designed the PostgreSQL schema and enforced tenant isolation with Supabase row-level security.
+- **Billing** · I connected Stripe subscriptions, metered usage, and webhooks.
+- **Performance** · Redis caching improved API performance by **40%**. The platform maintained **99.9% uptime**.
 
-**Stack** · TypeScript, Next.js, Supabase, PostgreSQL, Stripe, Upstash Redis, Vercel
+`Next.js` · `TypeScript` · `PostgreSQL` · `Vercel`
 
 </details>
 
-### LotVoyager · 3D property intelligence
+### LotVoyager
 
-At BioIntel Solutions, I built a 3D map for exploring U.S. terrain, parcel boundaries, and land ownership.
+**A property map you can explore in 3D.** At BioIntel Solutions, I brought U.S. terrain, parcel boundaries, and land ownership into a single interactive view.
 
 <details>
-<summary>See how I kept the 3D map responsive</summary>
+<summary><strong>How I kept the map responsive</strong></summary>
 
-I used progressive fetching, caching, and lazy loading to keep the map responsive as users moved between views.
+I loaded geospatial data progressively, cached it for reuse, and deferred layers until they were needed. That kept the interface responsive as users moved around the map.
 
-**Stack** · React, Next.js, TypeScript, Mapbox GL JS, WebGL, AWS
+`React` · `Mapbox GL JS` · `WebGL` · `AWS`
 
 </details>
 
-### FastCode Solutions · iOS and Android applications
+### FastCode Solutions
 
-I helped ship cross-platform apps for client projects on iOS and Android.
+**iOS and Android apps across five or more concurrent client projects.** I built reusable components and led code reviews while the team maintained a **95% on-time delivery rate**.
 
 <details>
-<summary>See my role across concurrent client projects</summary>
+<summary><strong>Browse my public mobile code</strong></summary>
 
-I built reusable mobile UI components and led code reviews across five or more concurrent client projects.
+These personal Flutter repositories are examples of my mobile work.
 
-**Stack** · React Native, Expo, Flutter
+- [Habit Builder ↗](https://github.com/fastcode746/Habit-Builder-App-In-Flutter) · A habit-tracking app.
+- [Notes App ↗](https://github.com/fastcode746/Notes-App-In-Flutter) · A note-taking app.
+
+**Professional mobile stack** · `React Native` · `Expo` · `Flutter`
 
 </details>
 
-## Technical toolkit
+---
 
-| Area | Technologies |
-| --- | --- |
-| Web | TypeScript, JavaScript, React, Next.js |
-| Data and billing | PostgreSQL, Supabase, Redis, Stripe |
-| Maps and visualization | Mapbox GL JS, WebGL |
-| Mobile | React Native, Expo, Flutter |
-| Deployment | Vercel, AWS, Linux, CI/CD |
-
-## Public repositories
-
-- [Habit Builder](https://github.com/fastcode746/Habit-Builder-App-In-Flutter) — Flutter habit-tracking app
-- [Notes App](https://github.com/fastcode746/Notes-App-In-Flutter) — Notes app built with Flutter
-
-## Education
-
-**Bachelor's in Software Engineering** · University of Sargodha, 2025
-
-[Back to selected work](#selected-work)
+<p align="center"><strong>Bachelor’s in Software Engineering</strong><br />University of Sargodha · 2025</p>
